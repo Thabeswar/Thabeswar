@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @Thabeswar
-- 👀 I’m interested in machine learning ...
-- 🌱 I’m currently learning basics of machine learning...
-- In 1 months i will complete the basics and going for an advancement
-- After I am going to start..... 
-<!---
-Thabeswar/Thabeswar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hello, I'm Thabeswar! 👋
+
+## About Me
+
+I am a student at University College of Engineering Villupuram (UCEV), with a passion for programming and a focus on AI and Machine Learning. I love transforming data into meaningful insights and building intelligent solutions.
+
+- 📚 Currently studying at UCEV.
+- 💻 Proficient in Python, AI, and Machine Learning.
+- 🚀 Exploring the fascinating world of data science and AI applications.
+
+## Skills
+
+- **Programming Languages:** Python
+- **Technologies:** AI, Machine Learning
+
+## Projects
+
+### Linear Model Project
+- Description: My first project involves implementing a linear model for predictive analysis.
+- [student preformance predictive model](https://github.com/Thabeswar/machine-Learning.git)
+
+## Get in Touch
+
+Let's connect and discuss all things tech and AI!
+
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/thabes28)
+
+Looking forward to exciting collaborations and learning experiences!
