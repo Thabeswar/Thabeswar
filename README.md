@@ -18,7 +18,7 @@ I am a student at University College of Engineering Villupuram (UCEV), with a pa
 ### Linear Model Project
 - Description: My first project involves implementing a linear model for predictive analysis.
 - [student preformance predictive model](https://github.com/Thabeswar/machine-Learning.git)
-
+  [binary classifcation using svm](https://github.com/Thabeswar/machine-Learning.git)
 ## Get in Touch
 
 Let's connect and discuss all things tech and AI!
