@@ -1,28 +1,39 @@
-# Hello, I'm Thabeswar! 👋
+# 👋 Hello, I'm Thabeswar!
 
-## About Me
+## 🎓 About Me
 
-I am a student at University College of Engineering Villupuram (UCEV), with a passion for programming and a focus on AI and Machine Learning. I love transforming data into meaningful insights and building intelligent solutions.
+I'm a 3rd-year Computer Science student at the University College of Engineering Villupuram (UCEV), Anna University. I’m passionate about solving real-world problems using AI and cloud technologies, and I love exploring the intersection of data, intelligence, and innovation.
 
-- 📚 Currently studying at UCEV.
-- 💻 Proficient in Python, AI, and Machine Learning.
-- 🚀 Exploring the fascinating world of data science and AI applications.
+- 📚 Currently pursuing B.E. in Computer Science (CGPA: 8.35 till 5th semester)
+- 💡 Completed the GFG 160 Days Coding Challenge
+- 🔍 Exploring Kubernetes, Docker, and cloud-native technologies
+- 🚀 Actively looking for internship opportunities in AI, Cloud, and DevOps domains
 
-## Skills
+## 💻 Technical Skills
 
-- **Programming Languages:** Python
-- **Technologies:** AI, Machine Learning
+- **Languages:** Python, C, Java  
+- **Databases:** MySQL  
+- **Frameworks & Libraries:** TensorFlow, PyTorch, OpenCV  
+- **Cloud & DevOps (Learning):** Kubernetes, Docker, Git  
+- **Tools:** Jupyter, VS Code, GitHub
 
-## Projects
+## 📂 Projects
 
-### Linear Model Project
-- Description: My first project involves implementing a linear model for predictive analysis.
-- [student preformance predictive model](https://github.com/Thabeswar/machine-Learning.git)
-- [binary classifcation using svm](https://github.com/Thabeswar/machine-Learning/tree/main/binary%20classification%20using%20svm)
-## Get in Touch
+### 🔸 Student Performance Predictive Model
+- Built a simple linear regression model to predict student performance.
+- [🔗 View Project](https://github.com/Thabeswar/machine-Learning)
 
-Let's connect and discuss all things tech and AI!
+### 🔸 Binary Classification using SVM
+- Implemented a support vector machine classifier for binary classification tasks.
+- [🔗 View Project](https://github.com/Thabeswar/machine-Learning/tree/main/binary%20classification%20using%20svm)
 
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/thabes28)
+> ⚙️ *More projects coming soon — currently working on deploying models and exploring Kubernetes.*
 
-Looking forward to exciting collaborations and learning experiences!
+## 🌐 Connect with Me
+
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thabes28)
+- 💬 Open to networking, collaborations, and internship opportunities in AI, ML, and Cloud domains.
+
+---
+
+**Let’s build, learn, and grow together!**
