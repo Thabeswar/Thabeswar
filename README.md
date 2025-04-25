@@ -22,7 +22,7 @@ I'm a 3rd-year Computer Science student at the University College of Engineering
 ### 🔸 Cold Email Generator using GenAI
 - Developed a Generative AI-based tool to automatically generate professional cold emails tailored to different industries and roles.
 - Integrated prompt engineering techniques and NLP to ensure personalization and clarity.
-- [🔗 View Project](https://github.com/Thabeswar/genai-projects) *(Replace this with the actual link if it's not live yet)*
+- [🔗 View Project](https://github.com/Thabeswar/genai-projects)
 
 ### 🔸 Student Performance Predictive Model
 - Built a simple linear regression model to predict student performance.
