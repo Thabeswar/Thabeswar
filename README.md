@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a 3rd-year Computer Science student at the University College of Engineering Villupuram (UCEV), Anna University. I’m passionate about solving real-world problems using AI and cloud technologies, and I love exploring the intersection of data, intelligence, and innovation.
+I'm a Final-year Computer Science student at the University College of Engineering Villupuram (UCEV), Anna University. I’m passionate about solving real-world problems using AI and cloud technologies, and I love exploring the intersection of data, intelligence, and innovation.
 
 - 📚 Currently pursuing B.E. in Computer Science (CGPA: 8.5 till 5th semester)
 - 💡 Completed the GFG 160 Days Coding Challenge
