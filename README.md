@@ -25,3 +25,5 @@ I'm a Final-year Computer Science student at the University College of Engineeri
 ---
 
 **Let’s build, learn, and grow together!**
+
+[![An image of @thabeswar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thabeswar)](https://holopin.io/@thabeswar)
