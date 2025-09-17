@@ -17,23 +17,6 @@ I'm a Final-year Computer Science student at the University College of Engineeri
 - **Cloud & DevOps (Learning):** Kubernetes, Docker, Git  
 - **Tools:** Jupyter, VS Code, GitHub
 
-## 📂 Projects
-
-### 🔸 Cold Email Generator using GenAI
-- Developed a Generative AI-based tool to automatically generate professional cold emails tailored to different industries and roles.
-- Integrated prompt engineering techniques and NLP to ensure personalization and clarity.
-- [🔗 View Project](https://github.com/Thabeswar/genai-projects)
-
-### 🔸 Student Performance Predictive Model
-- Built a simple linear regression model to predict student performance.
-- [🔗 View Project](https://github.com/Thabeswar/machine-Learning)
-
-### 🔸 Binary Classification using SVM
-- Implemented a support vector machine classifier for binary classification tasks.
-- [🔗 View Project](https://github.com/Thabeswar/machine-Learning/tree/main/binary%20classification%20using%20svm)
-
-> ⚙️ *More projects coming soon — currently working on deploying models and exploring Kubernetes.*
-
 ## 🌐 Connect with Me
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thabes28)
