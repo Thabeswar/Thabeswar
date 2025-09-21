@@ -19,7 +19,7 @@ I'm a Final-year Computer Science student at the University College of Engineeri
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thabes28)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/thabeswar)
 - 💬 Open to networking, collaborations, and internship opportunities in AI, ML, and Cloud domains.
 
 ---
