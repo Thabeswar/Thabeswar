@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Thabeswar!
 
-## 🎓 About Me
+## About Me
 
 I'm a Final-year Computer Science student at the University College of Engineering Villupuram (UCEV), Anna University. I’m interested in solving real-world problems using Data and AI Tech, and I love exploring tools and Techniques about it.
 
