@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Computer Science graduate. I’m interested in solving real-world problems using Data and AI Tech, and I love exploring tools and Techniques about it.
+I'm a Computer Science graduate. Interested in solving real-world problems using Data and AI Tech, and I love exploring tools and Techniques about it.
 
 - Completed the GFG 160 Days Coding Challenge
 - Exploring Kubernetes, Docker, and cloud-native technologies
